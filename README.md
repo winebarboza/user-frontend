@@ -1,3 +1,30 @@
+#the user
+Interface de busca que conecta com Api em Spring Boot.
+
+## Utilidade
+> retorna lista de usuários com as propriedades: 
+- nome
+- idade
+- sexo
+- telefone
+## Funções
+- É possível retornar todos os usuários
+- Retornar um usuário específico
+- Adicionar um usuário
+- Deletar um usuário específico
+- Editar usuário
+## Iniciando projeto
+1. Clonar o repositório 
+sh
+```
+git clone https://github.com/winebarboza/api-spring.git
+```
+2. npm install pra instalar as dependências.
+
+Made with :heart: by Wine
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +95,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# user-frontend
